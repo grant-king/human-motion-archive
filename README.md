@@ -74,13 +74,13 @@ Examples:
 
 This repo also includes (or links to) simple reference tools:
 
-* Recorder example / Ejemplo grabador: `tools/recorder-example` (or external repo)
-* Player example / Ejemplo reproductor: `tools/player-example` (or external repo)
+* Recorder example / Ejemplo grabador: `tools/recorder-example` (coming soon / próximamente)
+* Player example / Ejemplo reproductor: `tools/player-example` (coming soon / próximamente)
 
 Related repos / Repos relacionados:
 
-* Animation creation tool: (link)
-* Backend storage service: (link)
+* Animation creation tool: [cultomatic](https://github.com/grant-king/cultomatic)
+* Backend storage service: [cyberindex](https://github.com/grant-king/cyberindex)
 
 ## Contributing / Cómo colaborar
 
