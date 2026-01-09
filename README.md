@@ -75,7 +75,7 @@ Examples:
 This repo also includes (or links to) simple reference tools:
 
 * Recorder example / Ejemplo grabador: `tools/recorder-example` (coming soon / próximamente)
-* Player example / Ejemplo reproductor: `tools/player-example` (coming soon / próximamente)
+* Player example / Ejemplo reproductor: `tools/AnimationPlayer.vue`
 
 Related repos / Repos relacionados:
 
