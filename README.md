@@ -65,22 +65,22 @@
 (ES) data/<año>/<mes>/<tamaño_hoja_px>/<tamaño_fotograma_px>/<fps_captura>/*.webp
 ```
 
-Examples:
+Examples // ejemplos:
 
 * `data/2026/01/1024_px/64_px/24_fps/*.webp`
 * `data/2026/01/512_px/32_px/12_fps/*.webp`
 
 ## Tools & reference implementations / Herramientas y ejemplos
 
-This repo also includes (or links to) simple reference tools:
+This repo also includes this simple example player component // este repositorio también incluye este sencillo componente de reproductor de ejemplo:
 
-* Recorder example / Ejemplo grabador: `tools/recorder-example` (coming soon / próximamente)
 * Player example / Ejemplo reproductor: `tools/AnimationPlayer.vue`
 
 Related repos / Repos relacionados:
 
-* Animation creation tool: [cultomatic](https://github.com/grant-king/cultomatic)
-* Backend storage service: [cyberindex](https://github.com/grant-king/cyberindex)
+* Animation creation tool // herramienta de creación de animaciones: [cultomatic](https://github.com/grant-king/cultomatic)
+* Backend storage service // servicio de almacenamiento: [cyberindex](https://github.com/grant-king/cyberindex)
+* Storage export tool // herramienta de exportación: [hma-exporter](https://github.com/grant-king/hma-exporter)
 
 ## Contributing / Cómo colaborar
 
